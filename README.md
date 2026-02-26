@@ -18,7 +18,7 @@ The side projects I care most about are the ones that use software to give somet
 
 ## Things I'm Building
 
-🌊 **[ChannelSurf](https://github.com/Mulumoodi/channelsurf)** — Linear TV using YouTube. You drop in mid-stream, you can't pause or rewind, and changing the channel means missing what was on. Content is curated by AI from crowdsourced forums like Reddit — so everything on air has already been vetted by real people, not an algorithm chasing engagement.
+🌊 **[ChannelSurf](https://github.com/Mulumoodi/channelsurf-web)** — Linear TV using YouTube. You drop in mid-stream, you can't pause or rewind, and changing the channel means missing what was on. Content is curated by AI from crowdsourced forums like Reddit — so everything on air has already been vetted by real people, not an algorithm chasing engagement.
 
 📚 **[Bookshare](https://github.com/Mulumoodi/bookshare)** — A mobile app for sharing and borrowing books with people in your neighborhood. Because not every book needs to be bought new, and some of the best recommendations come from the person next door.
 
